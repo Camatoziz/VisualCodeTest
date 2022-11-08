@@ -1,0 +1,1 @@
+for (var i=0, result=0; i <= 100; result += i, i++); console.log(result)
